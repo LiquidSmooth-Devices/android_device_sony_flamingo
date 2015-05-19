@@ -42,9 +42,8 @@ PRODUCT_PACKAGES += \
     keystore.msm8226
 
 # Product attributes
-PRODUCT_NAME := aosp_d2203
 PRODUCT_DEVICE := flamingo
-PRODUCT_MODEL := Xperia E3 (AOSP)
+PRODUCT_MODEL := Xperia E3
 PRODUCT_BRAND := Sony
 PRODUCT_MANUFACTURER := Sony
 
